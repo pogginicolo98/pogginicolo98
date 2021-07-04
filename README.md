@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pogginicolo98
+- 👋 Hi, I’m Nicolò Poggi
 - 👀 I’m interested in Blockchain, Python and GNU/Linux
 - 🌱 I’m currently learning Blockchain and crypto ecosystem
 - 💞️ I’m looking to collaborate on crypto project
