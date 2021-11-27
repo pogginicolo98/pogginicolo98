@@ -17,6 +17,10 @@ Here on my profile you can see the projects I have completed and the ones I am w
 [<img src="https://img.icons8.com/fluency/48/000000/mail.png"/>](mailto:poggi.nicolo.bsnss@outlook.com)
 * :speech_balloon: If you have any question/feedback, please do not hesitate to reach out to me!
 
+## :closed_book: Here, some of my favorite personal projects
+* [ChainBid](https://github.com/pogginicolo98/start2impact_final-project) - Auction platform powered by Ethereum blockchain
+* [SocialDex](https://github.com/pogginicolo98/start2impact_social-dex) - Blockchain bulletin board
+
 ## :briefcase: Technical Skills
 #### Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
