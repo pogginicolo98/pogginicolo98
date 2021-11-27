@@ -1,5 +1,4 @@
-<img src=”https://github.com/pogginicolo98/pogginicolo98/blob/main/images/banner.png" alt=”Banner”>
-
+<img alt="Banner" src="https://github.com/pogginicolo98/pogginicolo98/blob/main/images/banner.png"/>
 
 - 👋 Hi, I’m Nicolò Poggi
 - 👀 I’m interested in Blockchain, Python and GNU/Linux
