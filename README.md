@@ -54,10 +54,10 @@ Here on my profile you can see the projects I have completed and the ones I am w
 <h3>GitHub Stats :bar_chart:</h3>
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="42%" align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=pogginicolo98&show_icons=true&include_all_commits=true&title_color=86092C&text_color=574038&icon_color=86092C&bg_color=F5E1C0&hide_border=true&locale=en&border_radius=15&custom_title=GitHub%20Stats" />
+    <img width="50%" align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=pogginicolo98&show_icons=true&include_all_commits=true&title_color=86092C&text_color=574038&icon_color=86092C&bg_color=F5E1C0&hide_border=true&locale=en&border_radius=15&custom_title=GitHub%20Stats" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="35%" align="rigth" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pogginicolo98&layout=compact&title_color=86092C&text_color=574038&bg_color=F5E1C0&hide_border=true&border_radius=15" />
+    <img width="42%" align="rigth" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pogginicolo98&layout=compact&title_color=86092C&text_color=574038&bg_color=F5E1C0&hide_border=true&border_radius=15" />
   </a>
 </p>
 
