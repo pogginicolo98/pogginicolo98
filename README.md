@@ -5,7 +5,10 @@
 - 📫 How to reach me: Telegram @pogginicolo98
 
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=pogginicolo98&show_icons=true&include_all_commits=true&title_color=86092C&text_color=574038&icon_color=86092C&bg_color=F5E1C0&hide_border=true&locale=en&border_radius=15)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=pogginicolo98&show_icons=true&include_all_commits=true&title_color=86092C&text_color=574038&icon_color=86092C&bg_color=F5E1C0&hide_border=true&locale=en&border_radius=15&custom_title=GitHub%20Stats)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pogginicolo98&layout=compact&title_color=86092C&text_color=574038&bg_color=F5E1C0&hide_border=true&border_radius=15)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!---
 pogginicolo98/pogginicolo98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
