@@ -20,8 +20,9 @@ Here on my profile you can see the projects I have completed and the ones I am w
 <br>
 
 ## :closed_book: Here, some of my favorite personal projects
-* [ChainBid](https://github.com/pogginicolo98/start2impact_final-project) - Auction platform powered by Ethereum blockchain
-* [SocialDex](https://github.com/pogginicolo98/start2impact_social-dex) - Blockchain bulletin board
+* [Echoes of the past](https://github.com/pogginicolo98/start2impact_solidity-project#readme) - Prototype of a fantasy themed NFT marketplace.
+* [ChainBid](https://github.com/pogginicolo98/start2impact_final-project#readme) - Auction platform powered by Ethereum blockchain
+* [SocialDex](https://github.com/pogginicolo98/start2impact_social-dex#readme) - Blockchain bulletin board
 
 <br>
 
@@ -42,11 +43,12 @@ Here on my profile you can see the projects I have completed and the ones I am w
 ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
 
 ### Databases
+![IPFS](https://img.shields.io/badge/ipfs-3670A0?style=for-the-badge&logo=ipfs&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 ### Platform & others
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)
