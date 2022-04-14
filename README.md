@@ -19,7 +19,7 @@ Here on my profile you can see the projects I have completed and the ones I am w
 
 <br>
 
-## :closed_book: Here, some of my favorite personal projects
+## :closed_book: Here, some of my best personal projects
 * [Echoes of the past](https://github.com/pogginicolo98/start2impact_solidity-project#readme) - Prototype of a fantasy themed NFT marketplace.
 * [ChainBid](https://github.com/pogginicolo98/start2impact_final-project#readme) - Auction platform powered by Ethereum blockchain
 * [SocialDex](https://github.com/pogginicolo98/start2impact_social-dex#readme) - Blockchain bulletin board
