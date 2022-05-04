@@ -3,7 +3,7 @@
 </p>
 
 
-<h3 align="center">Hi there, I'm <a href="https://github.com/pogginicolo98">Nicolò</a> :wave:</h3>
+<h3 align="center">Hello world, I'm <a href="https://github.com/pogginicolo98">Nicolò</a> :wave:</h3>
 <h2 align="center">I'm a Blockchain Developer :computer:, Bitcoin enthusiast :closed_lock_with_key: and video game lover :video_game:</h2>
 
 I started studying my first programming languages at school and later I accepted my first job as a PLC and SCADA developer.\
