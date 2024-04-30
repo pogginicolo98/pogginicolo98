@@ -6,9 +6,8 @@
 <h3 align="center">Hello world, I'm <a href="https://github.com/pogginicolo98">Nicolò</a> :wave:</h3>
 <h2 align="center">I'm a Blockchain Developer :computer:, Bitcoin enthusiast :closed_lock_with_key: and video game lover :video_game:</h2>
 
-I started studying my first programming languages at school and later I accepted my first job as a PLC and SCADA developer.\
+I started studying my first programming languages at school and later I joined my first job as a PLC and SCADA developer.\
 In June 2021, after more than 3 years, I decided to quit my job and start studying new programming languages and deepen the ones I already knew in order to change job and find one that I can really love.\
-I am now studying full time, and my next goal is to find a job in the blockchain industry.
 Here on my profile you can see the projects I have completed and the ones I am working on.
 
 ### :handshake: Connect with me:
@@ -28,34 +27,51 @@ Here on my profile you can see the projects I have completed and the ones I am w
 
 ## :briefcase: Technical Skills
 ### Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+[![Python](https://img.shields.io/badge/Python-F5E1C0.svg?style=for-the-badge&logo=python&logoColor=%2386092C&logoSize=auto)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-F5E1C0.svg?style=for-the-badge&logo=typescript&logoColor=%2386092C&logoSize=auto)](#)
+[![Solidity](https://img.shields.io/badge/Solidity-F5E1C0.svg?style=for-the-badge&logo=solidity&logoColor=%2386092C&logoSize=auto)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F5E1C0.svg?style=for-the-badge&logo=javascript&logoColor=%2386092C&logoSize=auto)](#)
+[![HTML5](https://img.shields.io/badge/HTML-F5E1C0.svg?style=for-the-badge&logo=html5&logoColor=%2386092C&logoSize=auto)](#)
+[![CSS3](https://img.shields.io/badge/CSS-F5E1C0.svg?style=for-the-badge&logo=css3&logoColor=%2386092C&logoSize=auto)](#)
+[![Bash](https://img.shields.io/badge/Bash-F5E1C0.svg?style=for-the-badge&logo=gnubash&logoColor=%2386092C&logoSize=auto)](#)
 
 ### Frameworks & libraries
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
+[![Django](https://img.shields.io/badge/Django-F5E1C0.svg?style=for-the-badge&logo=django&logoColor=%2386092C&logoSize=auto)](#)
+[![REST-Framework](https://img.shields.io/badge/REST_Framework-F5E1C0.svg?style=for-the-badge&logo=django&logoColor=%2386092C&logoSize=auto)](#)
+[![Flask](https://img.shields.io/badge/Flask-F5E1C0.svg?style=for-the-badge&logo=flask&logoColor=%2386092C&logoSize=auto)](#)
+[![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-F5E1C0.svg?style=for-the-badge&logo=sqlalchemy&logoColor=%2386092C&logoSize=auto)](#)
+[![Adonis](https://img.shields.io/badge/Adonis.js-F5E1C0.svg?style=for-the-badge&logo=adonisjs&logoColor=%2386092C&logoSize=auto)](#)
+
+[![React](https://img.shields.io/badge/React-F5E1C0.svg?style=for-the-badge&logo=react&logoColor=%2386092C&logoSize=auto)](#)
+[![Vue.js](https://img.shields.io/badge/Vue.js-F5E1C0.svg?style=for-the-badge&logo=vue.js&logoColor=%2386092C&logoSize=auto)](#)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-F5E1C0.svg?style=for-the-badge&logo=bootstrap&logoColor=%2386092C&logoSize=auto)](#)
+
+[![Web3](https://img.shields.io/badge/Web3-F5E1C0.svg?style=for-the-badge&logo=web3.js&logoColor=%2386092C&logoSize=auto)](#)
+[![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-F5E1C0.svg?style=for-the-badge&logo=openzeppelin&logoColor=%2386092C&logoSize=auto)](#)
+[![PyTeal](https://img.shields.io/badge/PyTeal-F5E1C0.svg?style=for-the-badge&logo=algorand&logoColor=%2386092C&logoSize=auto)](#)
+[![HardHat](https://img.shields.io/badge/HardHat-F5E1C0.svg?style=for-the-badge&logo=ethereum&logoColor=%2386092C&logoSize=auto)](#)
+[![Eth-Brownie](https://img.shields.io/badge/Eth--Brownie-F5E1C0.svg?style=for-the-badge&logo=ethereum&logoColor=%2386092C&logoSize=auto)](#)
 
 ### Databases
-![IPFS](https://img.shields.io/badge/ipfs-3670A0?style=for-the-badge&logo=ipfs&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+[![MySQL](https://img.shields.io/badge/MySQL-F5E1C0.svg?style=for-the-badge&logo=mysql&logoColor=%2386092C&logoSize=auto)](#)
+[![Postgres](https://img.shields.io/badge/PostgreSQL-F5E1C0.svg?style=for-the-badge&logo=postgresql&logoColor=%2386092C&logoSize=auto)](#)
+[![SQLite](https://img.shields.io/badge/SQLite-F5E1C0.svg?style=for-the-badge&logo=sqlite&logoColor=%2386092C&logoSize=auto)](#)
+[![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-F5E1C0.svg?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=%2386092C&logoSize=auto)](#)
+[![MongoDB](https://img.shields.io/badge/MongoDB-F5E1C0.svg?style=for-the-badge&logo=mongodb&logoColor=%2386092C&logoSize=auto)](#)
+[![Redis](https://img.shields.io/badge/Redis-F5E1C0.svg?style=for-the-badge&logo=redis&logoColor=%2386092C&logoSize=auto)](#)
 
 ### Platform & others
-![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+[![Debian](https://img.shields.io/badge/Debian-F5E1C0.svg?style=for-the-badge&logo=debian&logoColor=%2386092C&logoSize=auto)](#)
+[![Git](https://img.shields.io/badge/Git-F5E1C0.svg?style=for-the-badge&logo=git&logoColor=%2386092C&logoSize=auto)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-F5E1C0.svg?style=for-the-badge&logo=github&logoColor=%2386092C&logoSize=auto)](#)
+
+[![PyCharm](https://img.shields.io/badge/PyCharm-F5E1C0.svg?style=for-the-badge&logo=pycharm&logoColor=%2386092C&logoSize=auto)](#)
+[![VS-Code](https://img.shields.io/badge/VS_Code-F5E1C0.svg?style=for-the-badge&logo=redis&logoColor=%2386092C&logoSize=auto)](#)
+
+[![Redis](https://img.shields.io/badge/Redis-F5E1C0.svg?style=for-the-badge&logo=redis&logoColor=%2386092C&logoSize=auto)](#)
+[![Redis](https://img.shields.io/badge/Redis-F5E1C0.svg?style=for-the-badge&logo=redis&logoColor=%2386092C&logoSize=auto)](#)
+[![Redis](https://img.shields.io/badge/Redis-F5E1C0.svg?style=for-the-badge&logo=redis&logoColor=%2386092C&logoSize=auto)](#)
+[![Redis](https://img.shields.io/badge/Redis-F5E1C0.svg?style=for-the-badge&logo=redis&logoColor=%2386092C&logoSize=auto)](#)
 
 <br>
 
