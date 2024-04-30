@@ -64,14 +64,14 @@ Here on my profile you can see the projects I have completed and the ones I am w
 [![Debian](https://img.shields.io/badge/Debian-F5E1C0.svg?style=for-the-badge&logo=debian&logoColor=%2386092C&logoSize=auto)](#)
 [![Git](https://img.shields.io/badge/Git-F5E1C0.svg?style=for-the-badge&logo=git&logoColor=%2386092C&logoSize=auto)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-F5E1C0.svg?style=for-the-badge&logo=github&logoColor=%2386092C&logoSize=auto)](#)
-
 [![PyCharm](https://img.shields.io/badge/PyCharm-F5E1C0.svg?style=for-the-badge&logo=pycharm&logoColor=%2386092C&logoSize=auto)](#)
-[![VS-Code](https://img.shields.io/badge/VS_Code-F5E1C0.svg?style=for-the-badge&logo=redis&logoColor=%2386092C&logoSize=auto)](#)
+[![VS-Code](https://img.shields.io/badge/VS_Code-F5E1C0.svg?style=for-the-badge&logo=visualstudiocode&logoColor=%2386092C&logoSize=auto)](#)
 
-[![Redis](https://img.shields.io/badge/Redis-F5E1C0.svg?style=for-the-badge&logo=redis&logoColor=%2386092C&logoSize=auto)](#)
-[![Redis](https://img.shields.io/badge/Redis-F5E1C0.svg?style=for-the-badge&logo=redis&logoColor=%2386092C&logoSize=auto)](#)
-[![Redis](https://img.shields.io/badge/Redis-F5E1C0.svg?style=for-the-badge&logo=redis&logoColor=%2386092C&logoSize=auto)](#)
-[![Redis](https://img.shields.io/badge/Redis-F5E1C0.svg?style=for-the-badge&logo=redis&logoColor=%2386092C&logoSize=auto)](#)
+### Blockchains
+[![Bitcoin](https://img.shields.io/badge/Bitcoin-F5E1C0.svg?style=for-the-badge&logo=bitcoin&logoColor=%2386092C&logoSize=auto)](#)
+[![Ethereum](https://img.shields.io/badge/Ethereum-F5E1C0.svg?style=for-the-badge&logo=ethereum&logoColor=%2386092C&logoSize=auto)](#)
+[![Polygon](https://img.shields.io/badge/Polygon-F5E1C0.svg?style=for-the-badge&logo=polygon&logoColor=%2386092C&logoSize=auto)](#)
+[![Algorand](https://img.shields.io/badge/Algorand-F5E1C0.svg?style=for-the-badge&logo=algorand&logoColor=%2386092C&logoSize=auto)](#)
 
 <br>
 
