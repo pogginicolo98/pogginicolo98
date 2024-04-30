@@ -4,7 +4,7 @@
 
 
 <h3 align="center">Hello world, I'm <a href="https://github.com/pogginicolo98">Nicolò</a> :wave:</h3>
-<h2 align="center">I'm a Blockchain Developer :computer:, Bitcoin enthusiast :closed_lock_with_key: and video game lover :video_game:</h2>
+<h2 align="center">I'm a Fullstack & Blockchain Developer :computer:, Bitcoin enthusiast :closed_lock_with_key: and video game lover :video_game:</h2>
 
 I started studying my first programming languages at school and later I joined my first job as a PLC and SCADA developer.\
 In June 2021, after more than 3 years, I decided to quit my job and start studying new programming languages and deepen the ones I already knew in order to change job and find one that I can really love.\
