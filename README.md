@@ -10,7 +10,7 @@ I started studying my first programming languages at school and later I joined m
 In June 2021, after more than 3 years, I decided to quit my job and start studying new programming languages and deepen the ones I already knew in order to change job and find one that I can really love.\
 Here on my profile you can see the projects I have completed and the ones I am working on.
 
-### :handshake: Connect with me:
+### 🤝: Connect with me:
 [<img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png"/>](https://www.linkedin.com/in/nicol%C3%B2-poggi-481227157/)
 [<img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"/>](https://t.me/pogginicolo98)
 [<img src="https://img.icons8.com/fluency/48/000000/mail.png"/>](mailto:poggi.nicolo.bsnss@outlook.com)
@@ -18,14 +18,20 @@ Here on my profile you can see the projects I have completed and the ones I am w
 
 <br>
 
-## :closed_book: Here, some of my best personal projects
+## 📕: Here, some of my best personal projects
 * [Echoes of the past](https://github.com/pogginicolo98/start2impact_solidity-project#readme) - Prototype of a fantasy themed NFT marketplace.
 * [ChainBid](https://github.com/pogginicolo98/start2impact_final-project#readme) - Auction platform powered by Ethereum blockchain
 * [SocialDex](https://github.com/pogginicolo98/start2impact_social-dex#readme) - Blockchain bulletin board
 
 <br>
 
-## :briefcase: Technical Skills
+## 🚧: Here, what I'm working on
+* [Corob Test](https://github.com/pogginicolo98/corob-test?tab=readme-ov-file#readme) - Twitter-like web application based on Django and React; A test for technical interview with Corob.
+* [Two Guys One Hike](https://github.com/Two-guys-one-hike) - A blog about mountains and nature. Web application based on Django and React; Project in collaboration with @SonMonta
+
+<br>
+
+## 💼: Technical Skills
 ### Languages
 [![Python](https://img.shields.io/badge/Python-F5E1C0.svg?style=for-the-badge&logo=python&logoColor=%2386092C&logoSize=auto)](#)
 [![TypeScript](https://img.shields.io/badge/TypeScript-F5E1C0.svg?style=for-the-badge&logo=typescript&logoColor=%2386092C&logoSize=auto)](#)
@@ -75,7 +81,7 @@ Here on my profile you can see the projects I have completed and the ones I am w
 
 <br>
 
-## :bar_chart: GitHub Stats
+## 📊: GitHub Stats
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img width="50%" align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=pogginicolo98&show_icons=true&include_all_commits=true&title_color=86092C&text_color=574038&icon_color=86092C&bg_color=F5E1C0&hide_border=true&locale=en&border_radius=15&custom_title=GitHub%20Stats" />
