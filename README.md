@@ -7,7 +7,9 @@
 <h2 align="center">I'm a Full Stack & Blockchain Developer :computer:, Bitcoin enthusiast :closed_lock_with_key: and video game lover :video_game:</h2>
 
 I started studying my first programming languages at school and later I joined my first job as a PLC and SCADA developer.\
-In June 2021, after more than 3 years, I decided to quit my job and start studying new programming languages and deepen the ones I already knew in order to change job and find one that I can really love.\
+In June 2021, after more than 3 years, I decided to quit my job and start studying new programming languages in order to change job and find one that best suits my life and work goals.\
+Later in 2022 I started working in NEXiD as a Python & Blockchain developer. Unfortunately some things have changed, and now I'm looking for new opportunities.\
+At the moment I would like to bring some stability into my life and find a company where I can stay for a long time and grow as a Full Stack developer.\
 Here on my profile you can see the projects I have completed and the ones I am working on.
 
 ### 🤝: Connect with me:
@@ -27,7 +29,7 @@ Here on my profile you can see the projects I have completed and the ones I am w
 
 ## 🚧: Here, what I'm working on
 * [Corob Test](https://github.com/pogginicolo98/corob-test?tab=readme-ov-file#readme) - Twitter-like web application based on Django and React; A test for technical interview with Corob.
-* [Two Guys One Hike](https://github.com/Two-guys-one-hike) - A blog about mountains and nature. Web application based on Django and React; Project in collaboration with @SonMonta
+* [Two Guys One Hike](https://github.com/Two-guys-one-hike) - A blog about mountains and nature; Project in collaboration with @SonMonta
 
 <br>
 
